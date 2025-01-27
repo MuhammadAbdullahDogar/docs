@@ -1,9 +1,10 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "ShuttlePro",
   "logo": {
     "dark": "/logo/Group-48095698.svg",
     "light": "/logo/Group-48095698.svg"
+    "href": "https://shuttlepro.io"
   },
   "favicon": "/favicon.svg",
   "colors": {
@@ -18,7 +19,7 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "hello@shuttlepro.io"
     }
   ],
   "topbarCtaButton": {
